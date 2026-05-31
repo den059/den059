@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет! Я Денис | Механик IT 👋
 
-<!--
-**den059/den059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инженер-автоматизатор и разработчик. По образованию я техник по ремонту автотранспорта, но уже давно пересобираю и оптимизирую процессы в цифровом мире. Пишу эффективный софт без лишней рутины и "воды".
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой стек и технологии
+
+- **Languages & Frameworks:** C# / .NET 8 / WPF
+- **Databases:** SQLite
+- **AI & Prompt Engineering:** Multi-Agent Frameworks / Flowise AI / Coze / Advanced Prompt Design
+- **Web3 & Algo-Trading:** Crypto Analytics / API Integration / Arbitrage Systems
+
+---
+
+### ⚙️ Мои ключевые проекты
+
+📂 **[NOPRO](https://github.com/den059)** 
+> Десктопное Windows-приложение (WPF/.NET 8/SQLite) для копирайтеров и SEO-специалистов. Автоматически собирает сложные системные промпты, жестко контролирует LSI-фразы, n-граммы и пропорции ключевых слов по ТЗ. Включает встроенный HTML-редактор со статистикой текстов по каждому заголовку.
+
+📂 **Algo-Trading & Analytics (В разработке)**
+> Скрипты, парсеры и боты для анализа криптовалютного рынка. Автоматизация торговых стратегий, индикаторов и систем межбиржевого арбитража по API.
+
+---
+
+### 📢 Связь со мной
+
+Я делюсь своими практическими наработками, архитектурой ИИ-агентов и кодом в своем Telegram-канале. Никакого пафоса — только реальный Vibe Coding и практика.
+
+[![Telegram Badge](https://shields.io)](t.me/mechan_IT)
+
+---
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
