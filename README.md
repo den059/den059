@@ -27,7 +27,7 @@
 
 Я делюсь своими практическими наработками, архитектурой ИИ-агентов и кодом в своем Telegram-канале. Никакого пафоса — только реальный Vibe Coding и практика.
 
-[![Telegram](https://shields.io)](https://t.me/mechan_IT)
+[![Telegram Badge](https://shields.io)](https://t.me/mechan_IT)
 
 ---
 
